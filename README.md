@@ -2,12 +2,9 @@
 A Web Application for Flight Ticket Booking
 
 ## Technology Stack
-- FRONT END
-- HTML, CSS & JAVASCRIPT
-- BACKEND
-- Python Django
-- DATABASE
-- SOLITE
+- FRONT END -> HTML, CSS & JAVASCRIPT
+- BACKEND -> Python Django
+- DATABASE -> SOLITE
 
 ## Here are the previews of the project - 
 - USER VIEW
